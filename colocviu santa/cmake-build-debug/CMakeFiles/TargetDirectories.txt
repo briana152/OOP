@@ -1,0 +1,3 @@
+C:/Users/PC/POO/colocviu_santa/cmake-build-debug/CMakeFiles/colocviu_santa.dir
+C:/Users/PC/POO/colocviu_santa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/POO/colocviu_santa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

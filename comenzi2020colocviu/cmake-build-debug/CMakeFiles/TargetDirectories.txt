@@ -1,0 +1,3 @@
+C:/Users/PC/OneDrive - unibuc.ro/ANUL 1/POO/colocvii lucrate/comenzi2020colocviu/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/PC/OneDrive - unibuc.ro/ANUL 1/POO/colocvii lucrate/comenzi2020colocviu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/OneDrive - unibuc.ro/ANUL 1/POO/colocvii lucrate/comenzi2020colocviu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/PC/OneDrive/Documente/FACULTATE/ANUL 1/POO/colocvii lucrate/dvd-colocviu/cmake-build-debug/CMakeFiles/dvd_colocviu.dir
+C:/Users/PC/OneDrive/Documente/FACULTATE/ANUL 1/POO/colocvii lucrate/dvd-colocviu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/OneDrive/Documente/FACULTATE/ANUL 1/POO/colocvii lucrate/dvd-colocviu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

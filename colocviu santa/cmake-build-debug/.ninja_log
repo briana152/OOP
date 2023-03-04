@@ -1,0 +1,8 @@
+# ninja log v5
+4	793	6734567259605255	build.ninja	7530cf88d118a858
+1	876	6734567269712067	CMakeFiles/colocviu_santa.dir/util/IoBase.cpp.obj	34725e19a7fa814c
+6	931	6734567270215190	CMakeFiles/colocviu_santa.dir/util/functions.cpp.obj	a0e6bb6bd286d30f
+11	1216	6734567273117500	CMakeFiles/colocviu_santa.dir/main.cpp.obj	1335331086b09aba
+1216	1545	6734567276355035	colocviu_santa.exe	880980de52c377b
+3	565	6734568754763106	CMakeFiles/colocviu_santa.dir/main.cpp.obj	1335331086b09aba
+566	686	6734568755921586	colocviu_santa.exe	880980de52c377b

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dvd_colocviu",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dvd_colocviu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dvd_colocviu-Debug-f15f91a2f4c41e9bf179.json",
+					"name" : "dvd_colocviu",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/PC/OneDrive/Documente/FACULTATE/ANUL 1/POO/colocvii lucrate/dvd-colocviu/cmake-build-debug",
+		"source" : "C:/Users/PC/OneDrive/Documente/FACULTATE/ANUL 1/POO/colocvii lucrate/dvd-colocviu"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
